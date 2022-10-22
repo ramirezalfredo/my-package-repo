@@ -4,5 +4,6 @@ A simple node package
 
 ## Install instructions
 
-run
+run:
+
 npm install @ramirezalfredo/my-package@1.1.1
